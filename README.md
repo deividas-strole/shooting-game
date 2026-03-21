@@ -4,7 +4,7 @@ Shooting Game is a fun, lightweight shooting game built entirely with **vanilla 
 
 Control your ship (or character), dodge enemies, and shoot incoming threats while racking up points. Perfect for quick gaming sessions or as a learning example of canvas-based game development.
 
-This repository, developed by Deividas Strole, is part of his portfolio showcasing interactive JavaScript games and real-time rendering
+This repository, developed by Deividas Strole, is part of his portfolio showcasing interactive JavaScript games and real-time rendering.
 
 🚀 Overview
 
