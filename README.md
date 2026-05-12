@@ -8,7 +8,7 @@ This repository, developed by Deividas Strole, is part of his portfolio showcasi
 
 🚀 Overview
 
-Survive waves of enemies by shooting them down before they reach you. The game features smooth movement, bullet physics, collision detection, scoring, and a game-over screen — all implemented from scratch using HTML5 Canvas
+Survive waves of enemies by shooting them down before they reach you. The game features smooth movement, bullet physics, collision detection, scoring, and a game-over screen — all implemented from scratch using HTML5 Canvas.
 
 Built by Deividas Strole to demonstrate core game programming concepts like game loops, input handling, and object management in JavaScript.
 
